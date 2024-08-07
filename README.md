@@ -12,7 +12,7 @@
 
 # vue日志
 ### 1.vue响应式原理 更新于2024.04.02
-![概述](https://github.com/ztygod/tianyi-myvue/assets/142967939/3fc9d048-1b12-40dd-b1b5-87d6494ea88d)
+![屏幕截图 2024-08-07 142103](https://github.com/user-attachments/assets/9c9d7698-e6ea-45f0-b1f5-305a2f7d233a)
 ### 2.vue的渲染过程的实现 更新于2024.04.09
 ![概述](https://github.com/ztygod/tianyi-myvue/assets/142967939/b7454baf-4251-450c-9292-600e3a52c963)
 ### 3.简单Diff算法 更新于2024.04.13
